@@ -11,7 +11,7 @@ Time spent: *10** hours spent in total
 The following **required** functionality is completed:
 
 * [X] User can **view a list of todo items**
-* [] User can **successfully add and remove items** from the todo list
+* [X] User can **successfully add and remove items** from the todo list
 * [X] User's **list of items persisted** upon modification and and retrieved properly on app restart
 
 The following **optional** features are implemented:
@@ -25,7 +25,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<a target="_blank" rel="noopener noreferrer" href="/aareeze/SimpleToDo/walkthrough.gif"><img src="/aareeze/SimpleToDo/raw/master/walkthrough.gif" title="Video Walkthrough" width="" alt="Video Walkthrough" style="max-width: 100%;"></a>
+
+<a target="_blank" rel="noopener noreferrer" href="walkthrough.gif"><img src="walkthrough.gif" title="Video Walkthrough" width="" alt="Video Walkthrough" style="max-width: 100%;"></a>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
