@@ -25,8 +25,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-<img src='/aareeze/raw/master/SimpleToDo/walkthrough.gif' title='Video Walkthrough' max-width='100%' alt='Video Walkthrough' />
+<a target="_blank" rel="noopener noreferrer" href="/aareeze/SimpleToDo/walkthrough.gif"><img src="/aareeze/SimpleToDo/raw/master/walkthrough.gif" title="Video Walkthrough" width="" alt="Video Walkthrough" style="max-width: 100%;"></a>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
