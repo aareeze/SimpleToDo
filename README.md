@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='C:\Users\arism\SimpleToDo\walkthrough.gif' title='Video Walkthrough' max-width='100%' alt='Video Walkthrough' />
+<img src='/aareeze/raw/master/SimpleToDo/walkthrough.gif' title='Video Walkthrough' max-width='100%' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
